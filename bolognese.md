@@ -808,6 +808,7 @@
 - [Spinning](spinning.md)
 - [Ψάρεμα από Βράχους](rock-fishing.md)
 - [Ψάρεμα με Πλωτήρα](float-fishing.md)
+- [Απίκο (Jigging)](apiko.md)
 - [Οδηγός Εξοπλισμού](equipment-guide.md)
 - [Εποχιακό Ημερολόγιο](seasonal-calendar.md)
 - [Κανονισμοί](regulations.md)
